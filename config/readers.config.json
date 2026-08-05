@@ -1,0 +1,31 @@
+{
+  "default": "paginated",
+  "formats": {
+    "paginated": {
+      "enabled": true,
+      "label": "Page by page",
+      "module": "readers/paginated.js",
+      "description": "One page at a time, with forward/back navigation."
+    },
+    "scroll": {
+      "enabled": true,
+      "label": "Continuous scroll",
+      "module": "readers/scroll.js",
+      "description": "The whole book in one continuous column."
+    },
+    "liquid": {
+      "enabled": true,
+      "label": "Liquid / reflowable",
+      "module": "readers/liquid.js",
+      "description": "Reflowable text; adjust width and font size to taste."
+    }
+  },
+  "liquid_controls": {
+    "font_size_min_px": 14,
+    "font_size_max_px": 26,
+    "font_size_default_px": 18,
+    "measure_min_ch": 45,
+    "measure_max_ch": 90,
+    "measure_default_ch": 66
+  }
+}

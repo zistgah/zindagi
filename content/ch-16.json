@@ -1,0 +1,30 @@
+{
+  "id": "ch-16",
+  "title": "Geometry of Living — Faith, Belief, Philosophy, and Civilizational Generative Priors",
+  "subtitle": "A Comparative Systems-Theoretic Interpretation within the PoLPEST Framework",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Geometry of Living — Faith, Belief, Philosophy, and Civilizational Generative Priors” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-16-01",
+      "dimension": "2d",
+      "src": "assets/figures/geometry-of-living-faith-belief-philosophy.png",
+      "alt": "Poster: Geometry of Living — Faith, Belief, Philosophy, and Civilizational Generative Priors",
+      "caption": "Figure 16.1 — Geometry of Living — Faith, Belief, Philosophy, and Civilizational Generative Priors.",
+      "explanation": "A comparative, systems-theoretic reading in which belief systems, philosophical traditions, skepticism, historical texts, and scientific thought are interpreted as high-level generative models shaping cognition and collective organization — explicitly distinguished as speculative synthesis, not established scholarship. Belief functions as a generative prior; organized religions as large-scale shared generative models; skepticism and atheism as continual model revision. Classical strategic and ethical texts (Bhagavad Gita, Nahj al-Balagha, The Art of War, Analects, Arthashastra) and modern thinkers are located as different regions of a conceptual landscape, and each of religion, skepticism, philosophy, and science is assigned a functional role within the PoLPEST framework.",
+      "tts": "Faith, belief, philosophy, and science as generative priors: a comparative systems-theoretic interpretation, presented as research proposal rather than settled consensus.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Geometry of Living — Faith, Belief, Philosophy, and Civilizational Generative Priors” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: belief as generative prior, religion as shared model, skepticism as model revision, classical strategic texts, modern thinkers, PoLPEST interpretation. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

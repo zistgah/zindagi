@@ -1,0 +1,30 @@
+{
+  "id": "ch-17",
+  "title": "Food, Gut, Fasting & Self-Denial in the Geometry of Living Systems",
+  "subtitle": "Nutrition and Caloric Restriction as Thermodynamic Shifts and Markov-Blanket Reconfiguration",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Food, Gut, Fasting & Self-Denial in the Geometry of Living Systems” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-17-01",
+      "dimension": "2d",
+      "src": "assets/figures/food-gut-fasting-self-denial.png",
+      "alt": "Poster: Food, Gut, Fasting & Self-Denial in the Geometry of Living Systems",
+      "caption": "Figure 17.1 — Food, Gut, Fasting & Self-Denial in the Geometry of Living Systems.",
+      "explanation": "Nutrition and caloric restriction are treated as macroscopic thermodynamic shifts and topological reconfigurations of the Markov blanket. The gut-brain axis is a bidirectional information manifold; the endocrinology of satiety and hunger (ghrelin, leptin, GLP-1, PYY, CCK) sets the hormonal attractor landscape, with hyper-palatable Western diets a thermodynamic trap. Intermittent fasting drives a metabolic switch to fatty-acid oxidation and ketogenesis, cellular metric optimization via autophagy, and microbiome remodeling. Satiety and voluntary self-denial appear as the ultimate test of hierarchical active inference — top-down control overriding low-level homeostatic drives to optimize long-term systemic architecture.",
+      "tts": "Food, gut, and fasting as thermodynamic reconfiguration: the gut-brain axis, satiety hormones, the fasting metabolic switch, and self-denial as top-down active inference.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Food, Gut, Fasting & Self-Denial in the Geometry of Living Systems” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: gut-brain axis, endocrinology of satiety, intermittent fasting, metabolic switch, autophagy, self-denial as active inference. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

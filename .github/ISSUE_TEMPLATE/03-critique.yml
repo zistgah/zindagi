@@ -1,0 +1,25 @@
+name: Critique / evidence
+description: Challenge a claim with reasoning or evidence; flag where framing is metaphorical vs literal.
+title: "[critique] <short title>"
+labels: ["critique", "needs:proof"]
+body:
+  - type: input
+    id: chapter
+    attributes: {label: Which chapter/poster}
+    validations: {required: true}
+  - type: textarea
+    id: claim
+    attributes: {label: Claim under challenge}
+    validations: {required: true}
+  - type: textarea
+    id: evidence
+    attributes: {label: Reasoning / evidence, description: Critique with evidence, not tone.}
+    validations: {required: true}
+  - type: dropdown
+    id: capability
+    attributes:
+      label: Capability needed
+      options: [needs:proof, needs:ontology, needs:legal, needs:human]
+    validations: {required: true}
+  - type: markdown
+    attributes: {value: "  Governed by the Zistgah CONTRACT and CONTEXT (github.com/zistgah/governance). The Geometry of Living is a research proposal, not established consensus. Contributions are CC-BY-SA-4.0 and subject to the project CLA."}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-18",
+  "title": "The Nested Manifold of Human Reality",
+  "subtitle": "Genetics · Epigenetics · Culture · Education · Social Context · Media",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “The Nested Manifold of Human Reality” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-18-01",
+      "dimension": "2d",
+      "src": "assets/figures/nested-manifold-human-reality.png",
+      "alt": "Poster: The Nested Manifold of Human Reality",
+      "caption": "Figure 18.1 — The Nested Manifold of Human Reality.",
+      "explanation": "From the folding of DNA to the global propagation of cultural narratives, every layer of human experience is cast under the same laws: minimizing variational free energy, maintaining a non-equilibrium steady state, and executing geometric curves across the manifold of reality. Genetics is the baseline metric tensor; epigenetics is environmental metric modulation; culture is a global coordinate system and attractor landscape; education is metric optimization and manifold expansion; social context is multi-agent coupling; media is exogenous state-estimation forcing. The complete hierarchy — genetics, epigenetics, physiology, individual mind, social context, culture and education, media and memetics, evolutionary trajectory — is bound by feedback loops across scales. Nature writes the code, experience edits it, culture runs the program, media broadcasts the signal, and awareness chooses the trajectory.",
+      "tts": "The nested manifold of human reality: genetics as metric tensor, epigenetics as modulation, culture and education as coordinate systems, media as forcing — feedback across every scale.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “The Nested Manifold of Human Reality” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: genetics as metric tensor, epigenetics as modulation, culture as coordinate system, education as manifold expansion, media as forcing, nested hierarchy. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

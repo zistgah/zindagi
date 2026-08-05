@@ -1,0 +1,347 @@
+{
+  "$schema": "./book.schema.json",
+  "meta": {
+    "title": "Geometry of Living",
+    "subtitle": "A Sequel to Geometry of Becoming — A Poster Collection",
+    "author": "Abhishek Choudhary",
+    "affiliation": "AyeAI",
+    "orcid": "0009-0002-0684-8320",
+    "copyright": "© 1982–2026 Abhishek Choudhary. All rights reserved.",
+    "license": "cc-by-sa-4.0",
+    "doi": null,
+    "repo": "zistgah/zindagi",
+    "cover": "assets/figures/cover.png",
+    "language": "en"
+  },
+  "theme": {
+    "tokens": {
+      "--ink": "#0a0e27",
+      "--acc": "#d4a843",
+      "--light": "#fbf6e9",
+      "--panel": "rgba(255,255,255,0.05)",
+      "--panel-border": "rgba(212,168,67,0.2)",
+      "--font-body": "Georgia, 'Times New Roman', serif",
+      "--font-head": "Georgia, 'Times New Roman', serif",
+      "--font-mono": "'Courier New', monospace",
+      "--maxw": "1100px",
+      "--radius": "4px"
+    }
+  },
+  "structure": {
+    "parts": [
+      {
+        "id": "part-i",
+        "title": "The Perpetuation of Life",
+        "chapters": [
+          "ch-01",
+          "ch-02",
+          "ch-07",
+          "ch-16"
+        ]
+      },
+      {
+        "id": "part-ii",
+        "title": "The Geometry of Living",
+        "chapters": [
+          "ch-05",
+          "ch-06",
+          "ch-08",
+          "ch-15",
+          "ch-12"
+        ]
+      },
+      {
+        "id": "part-iii",
+        "title": "Breath, Mind & Music",
+        "chapters": [
+          "ch-10",
+          "ch-13",
+          "ch-09",
+          "ch-11",
+          "ch-14"
+        ]
+      },
+      {
+        "id": "part-iv",
+        "title": "Body, Health & Civilization",
+        "chapters": [
+          "ch-04",
+          "ch-17",
+          "ch-03",
+          "ch-18"
+        ]
+      }
+    ],
+    "chapters": [
+      {
+        "id": "ch-01",
+        "number": 1,
+        "title": "PoLPEST — The Perpetuation of Life Framework",
+        "subtitle": "A Unified Geo-Thermodynamic Architecture for Civilization",
+        "source": "content/ch-01.json",
+        "topics": [
+          "perpetuation of life",
+          "thermodynamic value",
+          "PEST framework",
+          "antientropic engine",
+          "Vatsalya",
+          "proximity of type"
+        ]
+      },
+      {
+        "id": "ch-02",
+        "number": 2,
+        "title": "PoLPEST — The Perpetuation of Life Framework (Life Continues · Adapts · Flourishes)",
+        "subtitle": "Cells to Future Generations: One Framework, Many Domains",
+        "source": "content/ch-02.json",
+        "topics": [
+          "perpetuation of life",
+          "cells to future generations",
+          "synthesis matrix",
+          "one value many domains"
+        ]
+      },
+      {
+        "id": "ch-03",
+        "number": 3,
+        "title": "Law, Ethics, Language & Civilization",
+        "subtitle": "A Unified Geometric, Thermodynamic & Institutional Framework",
+        "source": "content/ch-03.json",
+        "topics": [
+          "law as constraint matrix",
+          "peace as low-entropy homeostasis",
+          "ethics as metric",
+          "privacy as Markov blanket",
+          "ISIC ISCO ISCED",
+          "Sapir-Whorf manifold"
+        ]
+      },
+      {
+        "id": "ch-04",
+        "number": 4,
+        "title": "Health, Disease & Healing",
+        "subtitle": "A Unified Geometric, Thermodynamic & Topological Framework",
+        "source": "content/ch-04.json",
+        "topics": [
+          "disease as topological collapse",
+          "healing as manifold restoration",
+          "AYUSH constitutional geometry",
+          "integrative medicine",
+          "RCTs as manifold averaging",
+          "precision medicine"
+        ]
+      },
+      {
+        "id": "ch-05",
+        "number": 5,
+        "title": "Geometry of Living — A Systems-Theoretic Framework for Organized Adaptive Life",
+        "subtitle": "Table of Contents · A Sequel to Geometry of Becoming",
+        "source": "content/ch-05.json",
+        "topics": [
+          "table of contents",
+          "14 parts",
+          "movement yoga music biology culture",
+          "canonical dependency graph",
+          "unified living architecture"
+        ]
+      },
+      {
+        "id": "ch-06",
+        "number": 6,
+        "title": "Geometry of Living — A Unified Geometric Framework for Motion, Breath, Mind and Music",
+        "subtitle": "From Configuration Manifolds to Consciousness",
+        "source": "content/ch-06.json",
+        "topics": [
+          "dependency structure",
+          "configuration space",
+          "movement grammar",
+          "breath as compiler",
+          "two musical geometries",
+          "living as navigation"
+        ]
+      },
+      {
+        "id": "ch-07",
+        "number": 7,
+        "title": "Why Unbiased AI Is Essential in the Geometry of Living",
+        "subtitle": "Truthful · Transparent · Universal · Antientropic · For the Perpetuation of Life",
+        "source": "content/ch-07.json",
+        "topics": [
+          "unbiased AI",
+          "free energy",
+          "where bias enters",
+          "PoLPEST lens",
+          "epistemic humility",
+          "value pluralism",
+          "PoL alignment"
+        ]
+      },
+      {
+        "id": "ch-08",
+        "number": 8,
+        "title": "The Geometry of Becoming",
+        "subtitle": "Motion, Information, and Thermodynamics Across Scales",
+        "source": "content/ch-08.json",
+        "topics": [
+          "18 prompts",
+          "motion to meaning",
+          "dependency architecture",
+          "drift flatness contradiction",
+          "not a theory of everything"
+        ]
+      },
+      {
+        "id": "ch-09",
+        "number": 9,
+        "title": "The Geometry of Hindustani Music",
+        "subtitle": "Continuous Manifolds, Thermodynamic Time Theory, and the Generative Grammar of Raga",
+        "source": "content/ch-09.json",
+        "topics": [
+          "10 thaats",
+          "raga as geodesic",
+          "shruti and meend",
+          "nyas attractors",
+          "circadian phase coupling",
+          "generative grammar",
+          "vs Melakarta"
+        ]
+      },
+      {
+        "id": "ch-10",
+        "number": 10,
+        "title": "Breath · Bandhas · Consciousness",
+        "subtitle": "Geometric Operators That Rewrite the Mind and Shape Reality",
+        "source": "content/ch-10.json",
+        "topics": [
+          "frequency as metric damping",
+          "kumbhaka null-space",
+          "bandhas as topological gates",
+          "baroreflex lock",
+          "samadhi",
+          "generative grammar of breath"
+        ]
+      },
+      {
+        "id": "ch-11",
+        "number": 11,
+        "title": "Carnatic Music & The Melakarta System",
+        "subtitle": "The Combinatorial Lattice of Raga: A Discrete Mathematical Architecture",
+        "source": "content/ch-11.json",
+        "topics": [
+          "12 semitones",
+          "72 melakartas",
+          "6 chakras",
+          "janya ragas",
+          "lattice geometry",
+          "combinatorial completeness",
+          "vs Hindustani"
+        ]
+      },
+      {
+        "id": "ch-12",
+        "number": 12,
+        "title": "Geometry of Living — Integrating Neurofeedback, Biofeedback, BCIs, Electrophysiology & Electrotherapy",
+        "subtitle": "Technology as Geometric Operators on the Living Manifold",
+        "source": "content/ch-12.json",
+        "topics": [
+          "electrophysiology",
+          "neurofeedback closed-loop",
+          "BCI active state vector",
+          "TMS tACS DBS",
+          "technology as geometric operator",
+          "metric tensor manipulation"
+        ]
+      },
+      {
+        "id": "ch-13",
+        "number": 13,
+        "title": "Breath, Rhythm & Bandhas",
+        "subtitle": "A Geometric & Thermodynamic Framework — From Visceral-Pressure Manifolds to Autonomic Regulation",
+        "source": "content/ch-13.json",
+        "topics": [
+          "respiratory alphabet",
+          "bandha permutations",
+          "generative grammar Gbreath",
+          "hydraulic physics",
+          "systemic outcomes",
+          "programmable operating system"
+        ]
+      },
+      {
+        "id": "ch-14",
+        "number": 14,
+        "title": "Global Music Genres",
+        "subtitle": "A Unified Geometric, Thermodynamic & Topological Framework",
+        "source": "content/ch-14.json",
+        "topics": [
+          "music manifold",
+          "western jazz blues rock latin",
+          "arabic persian turkish east asian",
+          "rhythmic complexity spectrum",
+          "harmonic continuum",
+          "unity in diversity"
+        ]
+      },
+      {
+        "id": "ch-15",
+        "number": 15,
+        "title": "Geometry of Living — From Motion to Organized Living Systems",
+        "subtitle": "A Unified Geometric Framework for Movement, Breath, Mind, Music and Culture",
+        "source": "content/ch-15.json",
+        "topics": [
+          "dependency structure",
+          "same structure body and music",
+          "unifying template",
+          "living as navigation",
+          "hierarchy of geometric organization",
+          "becoming vs living"
+        ]
+      },
+      {
+        "id": "ch-16",
+        "number": 16,
+        "title": "Geometry of Living — Faith, Belief, Philosophy, and Civilizational Generative Priors",
+        "subtitle": "A Comparative Systems-Theoretic Interpretation within the PoLPEST Framework",
+        "source": "content/ch-16.json",
+        "topics": [
+          "belief as generative prior",
+          "religion as shared model",
+          "skepticism as model revision",
+          "classical strategic texts",
+          "modern thinkers",
+          "PoLPEST interpretation"
+        ]
+      },
+      {
+        "id": "ch-17",
+        "number": 17,
+        "title": "Food, Gut, Fasting & Self-Denial in the Geometry of Living Systems",
+        "subtitle": "Nutrition and Caloric Restriction as Thermodynamic Shifts and Markov-Blanket Reconfiguration",
+        "source": "content/ch-17.json",
+        "topics": [
+          "gut-brain axis",
+          "endocrinology of satiety",
+          "intermittent fasting",
+          "metabolic switch",
+          "autophagy",
+          "self-denial as active inference"
+        ]
+      },
+      {
+        "id": "ch-18",
+        "number": 18,
+        "title": "The Nested Manifold of Human Reality",
+        "subtitle": "Genetics · Epigenetics · Culture · Education · Social Context · Media",
+        "source": "content/ch-18.json",
+        "topics": [
+          "genetics as metric tensor",
+          "epigenetics as modulation",
+          "culture as coordinate system",
+          "education as manifold expansion",
+          "media as forcing",
+          "nested hierarchy"
+        ]
+      }
+    ]
+  }
+}

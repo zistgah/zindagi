@@ -1,0 +1,30 @@
+{
+  "id": "ch-01",
+  "title": "PoLPEST — The Perpetuation of Life Framework",
+  "subtitle": "A Unified Geo-Thermodynamic Architecture for Civilization",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “PoLPEST — The Perpetuation of Life Framework” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-01-01",
+      "dimension": "2d",
+      "src": "assets/figures/polpest-geothermodynamic.png",
+      "alt": "Poster: PoLPEST — The Perpetuation of Life Framework",
+      "caption": "Figure 1.1 — PoLPEST — The Perpetuation of Life Framework.",
+      "explanation": "This poster frames PoLPEST: the Perpetuation of Life (PoL) fused with the extended PEST framework. Value is defined not by financial capital or subjective preference but thermodynamically — the degree to which any domain, discipline, artifact, or action increases the probability, duration, and quality of life's continuation. Part 1 casts every human enterprise (medicine, commerce, law) as a sub-routine fighting entropy to hold the Non-Equilibrium Steady State of living systems. Part 2 adds Proximity of Type and the Vatsalya imperative (protective parental compassion) as a weighting on the value function. Part 3 maps five PoLPEST dimensions — political/legal, economic/industrial, social/cultural, technological, biological/ethical — onto their contribution to PoL.",
+      "tts": "PoLPEST: the Perpetuation of Life framework. A geo-thermodynamic architecture where value equals a system's contribution to the probability, duration, and quality of life's continuation.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “PoLPEST — The Perpetuation of Life Framework” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: perpetuation of life, thermodynamic value, PEST framework, antientropic engine, Vatsalya, proximity of type. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

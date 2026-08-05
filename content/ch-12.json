@@ -1,0 +1,30 @@
+{
+  "id": "ch-12",
+  "title": "Geometry of Living — Integrating Neurofeedback, Biofeedback, BCIs, Electrophysiology & Electrotherapy",
+  "subtitle": "Technology as Geometric Operators on the Living Manifold",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Geometry of Living — Integrating Neurofeedback, Biofeedback, BCIs, Electrophysiology & Electrotherapy” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-12-01",
+      "dimension": "2d",
+      "src": "assets/figures/geometry-of-living-neurotech.png",
+      "alt": "Poster: Geometry of Living — Integrating Neurofeedback, Biofeedback, BCIs, Electrophysiology & Electrotherapy",
+      "caption": "Figure 12.1 — Geometry of Living — Integrating Neurofeedback, Biofeedback, BCIs, Electrophysiology & Electrotherapy.",
+      "explanation": "Neurotechnology is folded into the Geometry of Living as geometric operators on a thermodynamic manifold. Electrophysiology (EEG/MEG) is the observable projection of internal probability current; neurofeedback and biofeedback are closed-loop manifold steering via operant conditioning; brain-computer interfaces extend the active state vector, uniting biological and synthetic agency; electrotherapy (TMS, tACS, DBS) is external electromagnetic-field perturbation that flattens maladaptive attractor wells. Whether biological or synthetic, if a technology perturbs the Markov blanket it is parsed geometrically — manipulating the metric tensor, diffusion profile, and energy dissipation of a living manifold.",
+      "tts": "Neurotechnology as geometric operators: EEG as probability current, neurofeedback as closed-loop steering, BCIs as an extended state vector, electrotherapy as attractor reshaping.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Geometry of Living — Integrating Neurofeedback, Biofeedback, BCIs, Electrophysiology & Electrotherapy” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: electrophysiology, neurofeedback closed-loop, BCI active state vector, TMS tACS DBS, technology as geometric operator, metric tensor manipulation. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

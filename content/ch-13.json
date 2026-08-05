@@ -1,0 +1,30 @@
+{
+  "id": "ch-13",
+  "title": "Breath, Rhythm & Bandhas",
+  "subtitle": "A Geometric & Thermodynamic Framework — From Visceral-Pressure Manifolds to Autonomic Regulation",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Breath, Rhythm & Bandhas” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-13-01",
+      "dimension": "2d",
+      "src": "assets/figures/breath-rhythm-bandhas.png",
+      "alt": "Poster: Breath, Rhythm & Bandhas",
+      "caption": "Figure 13.1 — Breath, Rhythm & Bandhas.",
+      "explanation": "Breath is a periodic dynamical system and bandhas are topological valves; together they control pressure gradients, blood flow, and neural states. The respiratory system is a multi-dimensional state space governed by phases, nostril routing, and topological locks, with valid bandha combinations enumerated across retention phases. A formal generative grammar for pranayama produces execution strings (for example classical Samavritti with Maha Bandha). Frequency dynamics separate high-frequency sympathetic activation from low-frequency parasympathetic resonance, and the hydraulic physics of each lock yields systemic outcomes — turning breathwork into a programmable operating system for autonomic regulation.",
+      "tts": "Breath and bandhas as a programmable operating system: a respiratory alphabet and generative grammar controlling pressure, blood flow, and autonomic state.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Breath, Rhythm & Bandhas” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: respiratory alphabet, bandha permutations, generative grammar Gbreath, hydraulic physics, systemic outcomes, programmable operating system. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

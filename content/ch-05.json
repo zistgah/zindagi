@@ -1,0 +1,30 @@
+{
+  "id": "ch-05",
+  "title": "Geometry of Living — A Systems-Theoretic Framework for Organized Adaptive Life",
+  "subtitle": "Table of Contents · A Sequel to Geometry of Becoming",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Geometry of Living — A Systems-Theoretic Framework for Organized Adaptive Life” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-05-01",
+      "dimension": "2d",
+      "src": "assets/figures/geometry-of-living-toc.png",
+      "alt": "Poster: Geometry of Living — A Systems-Theoretic Framework for Organized Adaptive Life",
+      "caption": "Figure 5.1 — Geometry of Living — A Systems-Theoretic Framework for Organized Adaptive Life.",
+      "explanation": "The table of contents for the Geometry of Living, sequel to the Geometry of Becoming. Fourteen parts span foundations of living geometry, the geometry of movement, yoga, thermodynamics of living, music, technology and living systems, nutrition and metabolism, biology across time, culture and civilization, health, institutions and collective living, perpetuation of life, and a unified geometry of living — closing with a canonical dependency graph and a unified living architecture. It is the map of the whole programme this collection illustrates.",
+      "tts": "The contents map of the Geometry of Living: fourteen parts from foundations and movement through biology, culture, and the perpetuation of life.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Geometry of Living — A Systems-Theoretic Framework for Organized Adaptive Life” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: table of contents, 14 parts, movement yoga music biology culture, canonical dependency graph, unified living architecture. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

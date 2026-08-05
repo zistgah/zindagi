@@ -1,0 +1,58 @@
+{
+  "share": {
+    "enabled": true,
+    "channels": ["copy-link", "x", "whatsapp", "linkedin", "email"]
+  },
+  "ratings": {
+    "enabled": true,
+    "mode": "client-side",
+    "github_stars": true,
+    "storage_key": "kitab.rating",
+    "note": "Client-side only — a lightweight star UI stored in the visitor's own browser. Aggregate signal is the repo's GitHub stars; no backend collects individual ratings."
+  },
+  "seeding": {
+    "enabled": true,
+    "note": "AI-conversation seeding. Prompts are composed client-side and copied; the visitor pastes them into their own AI session. No server, no shared key.",
+    "byok": {
+      "enabled": true,
+      "providers": ["anthropic", "openai"],
+      "storage_key": "kitab.byok",
+      "note": "Bring your own key. Stored only in the visitor's browser (localStorage). Never transmitted to any server we run; used directly from the browser to the provider the visitor chose."
+    }
+  },
+  "talking_artifacts": {
+    "enabled": true,
+    "popout": true,
+    "tts": {
+      "enabled": true,
+      "note": "Uses the browser's built-in SpeechSynthesis. No network, no key."
+    },
+    "ai_explain": {
+      "enabled": true,
+      "requires_byok": true
+    },
+    "dimensions": ["2d", "3d", "hyper"],
+    "note": "Every figure may declare an explanation, TTS text, a seed hook, and a dimensional descriptor. 3d/hyper figures declare what they are and where they are used; renderers are left as hooks."
+  },
+  "learning": {
+    "enabled": true,
+    "repo": "zistgah/varzish",
+    "select_to_learn": true,
+    "note": "Select any passage to see linked courses if they exist, or raise a course request as a GitHub issue on the configured learning repo.",
+    "courses": []
+  },
+  "participation": {
+    "enabled": true,
+    "comment_via_issue": true,
+    "flag_concern_via_issue": true,
+    "fork_button": true,
+    "fork_note": "Visitors can fork their own copy of this book — and the wider workspace (mez, etc.) — from the repo."
+  },
+  "litigation_sim": {
+    "enabled": false,
+    "stub": true,
+    "repo": "zistgah/vakil",
+    "entry_label": "Litigation simulation",
+    "note": "Per the contract (C34), a litigation-simulation hook is available from every context. Disabled by default here and wired as a stub; the entry point exists in every reader chrome and points at the configured repo."
+  }
+}

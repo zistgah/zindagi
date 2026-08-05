@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kitab — a config-driven book</title>
+  <meta name="description" content="Kitab: a reusable, config-driven book-publishing template. Edit config, not plumbing.">
+  <meta name="theme-color" content="#0a0e27">
+  <link rel="stylesheet" href="assets/theme/kitab.css">
+</head>
+<body>
+  <header id="kitab-header"><!-- chrome injected by app.js --></header>
+  <main id="reader-root">
+    <p style="text-align:center;color:var(--acc);padding:3rem">Loading…</p>
+  </main>
+  <footer style="text-align:center;padding:2rem;border-top:1px solid var(--panel-border);font-size:0.85rem;color:var(--acc)">
+    Built with <a href="https://github.com/zistgah/kitab" style="color:var(--acc)">kitab</a> — the config-driven book template.
+  </footer>
+
+  <!-- Config paths are relative to repo root; the engine fetches from config/ and content/. -->
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

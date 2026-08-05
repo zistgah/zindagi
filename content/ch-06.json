@@ -1,0 +1,30 @@
+{
+  "id": "ch-06",
+  "title": "Geometry of Living — A Unified Geometric Framework for Motion, Breath, Mind and Music",
+  "subtitle": "From Configuration Manifolds to Consciousness",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Geometry of Living — A Unified Geometric Framework for Motion, Breath, Mind and Music” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-06-01",
+      "dimension": "2d",
+      "src": "assets/figures/geometry-of-living-motion-breath-mind-music.png",
+      "alt": "Poster: Geometry of Living — A Unified Geometric Framework for Motion, Breath, Mind and Music",
+      "caption": "Figure 6.1 — Geometry of Living — A Unified Geometric Framework for Motion, Breath, Mind and Music.",
+      "explanation": "The dependency-structure poster: fifteen steps unfold from geometry through configuration manifolds, range of motion, movement grammar, yoga, breath grammar, bandhas, autonomic regulation, the statistical manifold of mind, consciousness modulation, and musical geometry to the geometry of adaptive living. Body and music are shown to occupy the same structural position — configuration space and pitch space, movement grammar and musical grammar, motor and melodic trajectories. Breath is a compiler that turns intention into executable movement; living is coordinated navigation across multiple coupled manifolds.",
+      "tts": "Motion, breath, mind, and music as one dependency structure: state space, grammar, trajectory, and adaptation, with living as navigation across coupled manifolds.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Geometry of Living — A Unified Geometric Framework for Motion, Breath, Mind and Music” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: dependency structure, configuration space, movement grammar, breath as compiler, two musical geometries, living as navigation. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

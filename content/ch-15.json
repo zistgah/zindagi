@@ -1,0 +1,30 @@
+{
+  "id": "ch-15",
+  "title": "Geometry of Living — From Motion to Organized Living Systems",
+  "subtitle": "A Unified Geometric Framework for Movement, Breath, Mind, Music and Culture",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Geometry of Living — From Motion to Organized Living Systems” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-15-01",
+      "dimension": "2d",
+      "src": "assets/figures/geometry-of-living-organized-systems.png",
+      "alt": "Poster: Geometry of Living — From Motion to Organized Living Systems",
+      "caption": "Figure 15.1 — Geometry of Living — From Motion to Organized Living Systems.",
+      "explanation": "These domains are not separate extensions but different manifestations of one mathematical architecture: living equals navigation through multiple coupled manifolds. The poster lays out the dependency structure from geometry to adaptive living, shows the same structure in body and music, and distils the unifying template — space, grammar, trajectory, optimization. It surveys the organism as simultaneous navigator of skeletal, muscular, respiratory, cardiovascular, neural, semantic, acoustic, social, and environmental spaces; presents breath as a compiler and music as information locomotion; and places the Geometry of Living as the companion volume to the Geometry of Becoming.",
+      "tts": "From motion to organized living systems: one template of space, grammar, trajectory, and optimization, with living as coordinated navigation across coupled manifolds.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Geometry of Living — From Motion to Organized Living Systems” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: dependency structure, same structure body and music, unifying template, living as navigation, hierarchy of geometric organization, becoming vs living. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

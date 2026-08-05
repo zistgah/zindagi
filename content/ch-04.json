@@ -1,0 +1,30 @@
+{
+  "id": "ch-04",
+  "title": "Health, Disease & Healing",
+  "subtitle": "A Unified Geometric, Thermodynamic & Topological Framework",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Health, Disease & Healing” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-04-01",
+      "dimension": "2d",
+      "src": "assets/figures/health-disease-healing.png",
+      "alt": "Poster: Health, Disease & Healing",
+      "caption": "Figure 4.1 — Health, Disease & Healing.",
+      "explanation": "Pathology is cast as topological corruption, thermodynamic divergence, or attractor trapping on the human manifold; healing restores the Non-Equilibrium Steady State and stabilizes the Markov blanket. Disease appears as topological fracture (trauma), attractor trapping (chronic/metabolic), or infectious invasion. Modern medicine acts by vector perturbation (pharmacology), topological reconstruction (surgery), and manifold maintenance (allied disciplines); AYUSH and global traditions act as macro-systemic constitutional regulators. Integrative medicine, mental health as internal-manifold distortion, and the RCT/EBM-versus-precision-medicine tension complete the picture.",
+      "tts": "Health, disease, and healing as geometry: pathology is a corrupted manifold or attractor trap; healing restores the body's non-equilibrium steady state.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Health, Disease & Healing” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: disease as topological collapse, healing as manifold restoration, AYUSH constitutional geometry, integrative medicine, RCTs as manifold averaging, precision medicine. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

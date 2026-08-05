@@ -1,0 +1,117 @@
+/* kitab.css — all visual styling reads from CSS variables set by core.js from
+   book.config.json theme tokens. Change the tokens, not this file. */
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --ink: #0a0e27;
+  --acc: #d4a843;
+  --light: #fbf6e9;
+  --panel: rgba(255,255,255,0.05);
+  --panel-border: rgba(212,168,67,0.2);
+  --font-body: Georgia, serif;
+  --font-head: Georgia, serif;
+  --font-mono: 'Courier New', monospace;
+  --maxw: 1100px;
+  --radius: 4px;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--ink);
+  color: var(--light);
+  line-height: 1.7;
+}
+
+/* ---- Header / chrome ---- */
+#kitab-header {
+  position: sticky; top: 0; z-index: 50;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 1rem; flex-wrap: wrap;
+  padding: 0.75rem 1.25rem;
+  background: linear-gradient(135deg, #1a1f3a 0%, var(--ink) 100%);
+  border-bottom: 1px solid var(--acc);
+}
+.kitab-title { font-family: var(--font-head); font-weight: bold; color: var(--acc); letter-spacing: 1px; }
+.kitab-tools { display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap; }
+
+.kitab-btn {
+  font-family: var(--font-body);
+  padding: 0.5rem 1rem; border: 1px solid var(--acc); background: transparent;
+  color: var(--acc); cursor: pointer; border-radius: var(--radius);
+  text-decoration: none; display: inline-block; transition: all .2s; font-size: .9rem;
+}
+.kitab-btn:hover { background: var(--acc); color: var(--ink); }
+.kitab-btn.active { background: var(--acc); color: var(--ink); }
+.kitab-btn-small { padding: 0.35rem 0.7rem; font-size: 0.82rem; }
+
+/* ---- Reader container ---- */
+#reader-root { max-width: var(--maxw); margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+
+.kitab-chapter-title { margin: 2.5rem 0 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid var(--panel-border); }
+.kitab-chapter-num { color: var(--acc); font-size: 0.85rem; letter-spacing: 2px; text-transform: uppercase; }
+.kitab-chapter-title h1 { font-family: var(--font-head); font-size: 2.2rem; margin: 0.3rem 0; }
+.kitab-chapter-sub { font-style: italic; color: var(--acc); }
+
+.kitab-heading { font-family: var(--font-head); color: var(--light); margin: 1.6rem 0 0.6rem; font-size: 1.4rem; }
+.kitab-para { margin: 0 0 1rem; }
+.kitab-callout {
+  margin: 1.2rem 0; padding: 1rem 1.2rem; border-left: 4px solid var(--acc);
+  background: var(--panel); border-radius: var(--radius);
+}
+
+/* ---- Talking-artifact figures ---- */
+.kitab-figure { margin: 1.6rem 0; padding: 1rem; background: var(--panel); border: 1px solid var(--panel-border); border-radius: var(--radius); }
+.kitab-figure-media { position: relative; text-align: center; }
+.kitab-figure-media img { max-width: 100%; height: auto; border-radius: var(--radius); }
+.kitab-figure-declares {
+  display: inline-block; margin-top: 0.5rem; padding: 0.3rem 0.6rem; font-family: var(--font-mono);
+  font-size: 0.75rem; color: var(--acc); border: 1px dashed var(--acc); border-radius: var(--radius);
+}
+.kitab-figure-caption { margin-top: 0.6rem; font-style: italic; color: var(--acc); font-size: 0.95rem; }
+.kitab-figure-bar { display: flex; gap: 0.4rem; margin-top: 0.7rem; flex-wrap: wrap; }
+.kitab-figure-pop {
+  margin-top: 0.7rem; padding: 0.9rem 1rem; background: rgba(0,0,0,0.35);
+  border: 1px solid var(--panel-border); border-radius: var(--radius); font-size: 0.95rem;
+}
+
+/* ---- Paginated ---- */
+.kitab-page { min-height: 50vh; }
+.kitab-page-nav { display: flex; align-items: center; justify-content: center; gap: 1.5rem; margin-top: 2rem; }
+.kitab-page-pos { font-family: var(--font-mono); color: var(--acc); }
+.kitab-btn:disabled { opacity: 0.35; cursor: default; }
+
+/* ---- Liquid ---- */
+.kitab-liquid-controls { display: flex; gap: 1.5rem; margin-bottom: 1.5rem; padding: 0.8rem 1rem; background: var(--panel); border-radius: var(--radius); flex-wrap: wrap; }
+.kitab-slider { display: flex; align-items: center; gap: 0.5rem; color: var(--acc); font-size: 0.85rem; }
+.kitab-liquid-col { margin: 0 auto; }
+
+/* ---- Selection bar ---- */
+.kitab-selbar {
+  position: absolute; z-index: 80; display: flex; gap: 0.35rem;
+  background: var(--ink); padding: 0.4rem; border: 1px solid var(--acc); border-radius: var(--radius);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+}
+
+/* ---- Stars ---- */
+.kitab-stars { display: inline-flex; align-items: center; gap: 0.1rem; }
+.kitab-star { background: none; border: none; color: #666; font-size: 1.1rem; cursor: pointer; padding: 0 1px; }
+.kitab-star.on { color: var(--acc); }
+.kitab-ghstar { margin-left: 0.5rem; }
+
+/* ---- Modal ---- */
+.kitab-modal-back { position: fixed; inset: 0; background: rgba(0,0,0,0.75); z-index: 100; display: flex; align-items: center; justify-content: center; padding: 1.5rem; }
+.kitab-modal { background: var(--ink); border: 1px solid var(--acc); border-radius: var(--radius); max-width: 640px; width: 100%; max-height: 85vh; overflow-y: auto; }
+.kitab-modal-head { display: flex; align-items: center; justify-content: space-between; padding: 1rem 1.25rem; border-bottom: 1px solid var(--panel-border); }
+.kitab-modal-body { padding: 1.25rem; display: flex; flex-direction: column; gap: 0.8rem; }
+.kitab-x { background: none; border: none; color: var(--acc); font-size: 1.5rem; cursor: pointer; }
+.kitab-field { display: flex; flex-direction: column; gap: 0.3rem; }
+.kitab-field span { color: var(--acc); font-size: 0.85rem; }
+.kitab-field input { padding: 0.6rem; background: rgba(255,255,255,0.08); border: 1px solid var(--panel-border); border-radius: var(--radius); color: var(--light); font-family: var(--font-body); }
+.kitab-note { font-size: 0.9rem; color: var(--acc); }
+.kitab-pre { background: rgba(0,0,0,0.35); padding: 1rem; border-radius: var(--radius); overflow-x: auto; font-size: 0.85rem; white-space: pre-wrap; }
+
+@media (max-width: 640px) {
+  .kitab-chapter-title h1 { font-size: 1.6rem; }
+  #kitab-header { gap: 0.5rem; }
+}

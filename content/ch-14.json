@@ -1,0 +1,30 @@
+{
+  "id": "ch-14",
+  "title": "Global Music Genres",
+  "subtitle": "A Unified Geometric, Thermodynamic & Topological Framework",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Global Music Genres” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-14-01",
+      "dimension": "2d",
+      "src": "assets/figures/global-music-genres.png",
+      "alt": "Poster: Global Music Genres",
+      "caption": "Figure 14.1 — Global Music Genres.",
+      "explanation": "Music across the world is modelled as patterns evolving in high-dimensional spaces: a music manifold that is the product of pitch, rhythm, timbre, dynamics, and cultural-topology spaces. The poster runs global traditions — Western art music, jazz, blues, rock, Latin, sub-Saharan African, Arabic, Persian, Turkish, East Asian, Indonesian gamelan — through the same multi-dimensional lens, comparing scale systems, rhythmic complexity, and a harmonic/modal continuum. Ragas, makams, and modes are coordinate systems on pitch manifolds; rhythms are cycles in time manifolds; music reduces internal entropy by aligning ordered patterns with the listener's generative model. Different traditions, one mathematics of music.",
+      "tts": "Global music genres under one lens: a music manifold of pitch, rhythm, timbre, dynamics, and culture, with every tradition a trajectory through the same space.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Global Music Genres” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: music manifold, western jazz blues rock latin, arabic persian turkish east asian, rhythmic complexity spectrum, harmonic continuum, unity in diversity. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Geometry of Living — A Poster Collection",
+  "description": "The Geometry of Living, presented as an eighteen-chapter poster collection built on the kitab template. A systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Chapters span the Perpetuation of Life (PoLPEST) framework; the geometry of movement, breath, mind, and music; health, disease, and healing; law, ethics, language, and civilization; nutrition and fasting; and the nested manifold of human reality. A sequel to Geometry of Becoming. Presented as an integrative research proposal, not established consensus. One poster per chapter, each a self-describing figure with explanation, read-aloud, and Ask-AI tools.",
+  "license": "cc-by-sa-4.0",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "version": "1.0.0",
+  "creators": [
+    { "name": "Choudhary, Abhishek", "affiliation": "AyeAI", "orcid": "0009-0002-0684-8320" }
+  ],
+  "related_identifiers": [
+    { "identifier": "https://github.com/zistgah/zindagi", "relation": "isSupplementTo", "scheme": "url" },
+    { "identifier": "https://github.com/zistgah/kitab", "relation": "isDerivedFrom", "scheme": "url" }
+  ],
+  "access_right": "open",
+  "language": "eng",
+  "keywords": ["geometry of living", "perpetuation of life", "PoLPEST", "free energy", "thermodynamics", "manifold", "raga", "pranayama", "systems theory"]
+}

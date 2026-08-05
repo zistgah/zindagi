@@ -1,0 +1,30 @@
+{
+  "id": "ch-10",
+  "title": "Breath · Bandhas · Consciousness",
+  "subtitle": "Geometric Operators That Rewrite the Mind and Shape Reality",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Breath · Bandhas · Consciousness” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-10-01",
+      "dimension": "2d",
+      "src": "assets/figures/breath-bandhas-consciousness.png",
+      "alt": "Poster: Breath · Bandhas · Consciousness",
+      "caption": "Figure 10.1 — Breath · Bandhas · Consciousness.",
+      "explanation": "The mind is the internal statistical manifold encoding a generative model; consciousness is the recursive integration where expected free energy models the entity's own states; breath and bandhas are geometric operators that rewrite the metric tensor and restructure the attractor landscape. Frequency modulation acts as metric damping — high-frequency chaos, baroreflex-resonance lock near 0.1 Hz, and low-frequency absorption. Kumbhaka (retention) opens a free-energy null-space; the bandhas act as hydraulic topological gates coupling visceral receptors to mind geometry. A generative grammar of breath lets a practitioner programmatically reshape the geometry of consciousness.",
+      "tts": "Breath and bandhas as geometric operators on the mind: frequency as metric damping, retention as a free-energy null-space, locks as topological gates toward coherence and samadhi.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Breath · Bandhas · Consciousness” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: frequency as metric damping, kumbhaka null-space, bandhas as topological gates, baroreflex lock, samadhi, generative grammar of breath. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

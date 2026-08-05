@@ -1,0 +1,30 @@
+{
+  "id": "ch-02",
+  "title": "PoLPEST — The Perpetuation of Life Framework (Life Continues · Adapts · Flourishes)",
+  "subtitle": "Cells to Future Generations: One Framework, Many Domains",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “PoLPEST — The Perpetuation of Life Framework (Life Continues · Adapts · Flourishes)” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-02-01",
+      "dimension": "2d",
+      "src": "assets/figures/polpest-perpetuation-infinity.png",
+      "alt": "Poster: PoLPEST — The Perpetuation of Life Framework (Life Continues · Adapts · Flourishes)",
+      "caption": "Figure 2.1 — PoLPEST — The Perpetuation of Life Framework (Life Continues · Adapts · Flourishes).",
+      "explanation": "A second rendering of PoLPEST built around the infinity motif — Life Continues, Life Adapts, Life Flourishes, Future Generations. It restates PoL as the supreme foundational value driver and walks the same three parts: PoL as universal value driver, the altruistic gradient and biological valuation, and the synthesis matrix. Its conclusion traces one value across scales — cells survive, organisms stay healthy, communities cooperate, civilizations build culture, the planet sustains, future generations inherit — closing with the single filter question: does this maximize the probability that life continues, adapts, and flourishes into the future?",
+      "tts": "PoLPEST across scales: from cell survival to future generations, one value driver — the perpetuation of life — filtering every domain.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “PoLPEST — The Perpetuation of Life Framework (Life Continues · Adapts · Flourishes)” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: perpetuation of life, cells to future generations, synthesis matrix, one value many domains. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-08",
+  "title": "The Geometry of Becoming",
+  "subtitle": "Motion, Information, and Thermodynamics Across Scales",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “The Geometry of Becoming” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-08-01",
+      "dimension": "2d",
+      "src": "assets/figures/geometry-of-becoming.png",
+      "alt": "Poster: The Geometry of Becoming",
+      "caption": "Figure 8.1 — The Geometry of Becoming.",
+      "explanation": "The origin poster: eighteen prompts that built a unified vision, tracing a path from an algebra of human range-of-motion to a geometry spanning motion, information, thermodynamics, life, agency, and cosmos. It records the three avoided pitfalls — drift, flatness, contradiction — and the hierarchical climb from kinematics through scales and information, thermodynamics and the arrow of time, semantics and agency, to life, mind, and clinical transitions. Framed explicitly as a map for twenty-first-century science, not a theory of everything: a framework for becoming everything.",
+      "tts": "The Geometry of Becoming: eighteen prompts building one geometric language for motion, information, thermodynamics, and life across every scale.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “The Geometry of Becoming” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: 18 prompts, motion to meaning, dependency architecture, drift flatness contradiction, not a theory of everything. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

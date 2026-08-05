@@ -1,0 +1,30 @@
+{
+  "id": "ch-09",
+  "title": "The Geometry of Hindustani Music",
+  "subtitle": "Continuous Manifolds, Thermodynamic Time Theory, and the Generative Grammar of Raga",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “The Geometry of Hindustani Music” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-09-01",
+      "dimension": "2d",
+      "src": "assets/figures/geometry-of-hindustani-music.png",
+      "alt": "Poster: The Geometry of Hindustani Music",
+      "caption": "Figure 9.1 — The Geometry of Hindustani Music.",
+      "explanation": "Hindustani music is modelled as a continuous manifold, in contrast to the discrete combinatorial lattice of the Carnatic Melakarta system. The ten Thaats are base coordinate frames; a Raga is a directed geodesic and potential well defined by ascent/descent directionality, a signature Pakad motif, and Nyas gravitational attractors; Shruti and Meend are continuous-manifold traversal through twenty-two microtones. A thermodynamic time-theory couples ragas to the circadian rhythm, and a formal generative grammar produces valid improvisation as a parse tree. Raga is presented not as a scale but as a living geometry of sound, time, and consciousness.",
+      "tts": "Hindustani music as continuous geometry: thaats as coordinate frames, ragas as directed geodesics through microtonal space, coupled to the daily cycle by a thermodynamic time-theory.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “The Geometry of Hindustani Music” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: 10 thaats, raga as geodesic, shruti and meend, nyas attractors, circadian phase coupling, generative grammar, vs Melakarta. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

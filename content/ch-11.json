@@ -1,0 +1,30 @@
+{
+  "id": "ch-11",
+  "title": "Carnatic Music & The Melakarta System",
+  "subtitle": "The Combinatorial Lattice of Raga: A Discrete Mathematical Architecture",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Carnatic Music & The Melakarta System” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-11-01",
+      "dimension": "2d",
+      "src": "assets/figures/carnatic-melakarta-system.png",
+      "alt": "Poster: Carnatic Music & The Melakarta System",
+      "caption": "Figure 11.1 — Carnatic Music & The Melakarta System.",
+      "explanation": "Carnatic music, through the Melakarta system, is a complete, discrete, systematic enumeration of all heptatonic scales derivable from the twelve semitones of the octave. Twelve semitones form the discrete pitch space; seventy-two parent scales (six chakras by twelve melas) exhaust the combinations under fixed Sa and Pa; all other ragas are Janya ragas derived by omission, zig-zag movement, and ornamentation. The seventy-two Melakartas form a combinatorial lattice with rich symmetries — a discrete counterpart to the continuous Hindustani manifold, and a triumph of mathematical completeness from which infinite beauty emerges.",
+      "tts": "Carnatic music as a discrete lattice: seventy-two Melakarta parent scales exhaustively enumerating the heptatonic combinations of twelve semitones.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Carnatic Music & The Melakarta System” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: 12 semitones, 72 melakartas, 6 chakras, janya ragas, lattice geometry, combinatorial completeness, vs Hindustani. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

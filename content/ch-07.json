@@ -1,0 +1,30 @@
+{
+  "id": "ch-07",
+  "title": "Why Unbiased AI Is Essential in the Geometry of Living",
+  "subtitle": "Truthful · Transparent · Universal · Antientropic · For the Perpetuation of Life",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Why Unbiased AI Is Essential in the Geometry of Living” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-07-01",
+      "dimension": "2d",
+      "src": "assets/figures/why-unbiased-ai.png",
+      "alt": "Poster: Why Unbiased AI Is Essential in the Geometry of Living",
+      "caption": "Figure 7.1 — Why Unbiased AI Is Essential in the Geometry of Living.",
+      "explanation": "If the Geometry of Living models life as navigation through coupled manifolds to minimize free energy and maximize PoL, then a biased AI corrupts the model itself — distorted perception, wrong inferences, harmful decisions, civilizational regression. The poster traces where bias enters (data, labels, priors, objectives, outputs), shows how it warps the manifold's true geometry, and argues six reasons unbiased AI is critical: truthful representation, fairness, universalization, safety and alignment, scientific integrity, and civilizational survival. It closes with principles — epistemic humility, diversity, value pluralism, transparency, accountability, inclusivity, long-termism, PoL alignment — and the claim that unbiased AI is not neutral but consciously committed to truth, justice, and life.",
+      "tts": "Why unbiased AI matters in the Geometry of Living: bias warps the model of reality and raises free energy; unbiased AI serves truth, justice, and the perpetuation of life.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Why Unbiased AI Is Essential in the Geometry of Living” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: unbiased AI, free energy, where bias enters, PoLPEST lens, epistemic humility, value pluralism, PoL alignment. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

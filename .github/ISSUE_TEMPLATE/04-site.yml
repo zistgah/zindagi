@@ -1,0 +1,17 @@
+name: Site / build issue
+description: Report a problem with the reader, a broken figure, or a config/metadata error.
+title: "[site] <short summary>"
+labels: ["bug", "needs:code"]
+body:
+  - type: textarea
+    id: what
+    attributes: {label: What is wrong}
+    validations: {required: true}
+  - type: input
+    id: reader
+    attributes: {label: Which reader (paginated/scroll/liquid) and browser}
+  - type: input
+    id: where
+    attributes: {label: Chapter / figure / file}
+  - type: markdown
+    attributes: {value: "  Governed by the Zistgah CONTRACT and CONTEXT (github.com/zistgah/governance). The Geometry of Living is a research proposal, not established consensus. Contributions are CC-BY-SA-4.0 and subject to the project CLA."}

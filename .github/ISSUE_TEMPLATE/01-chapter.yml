@@ -1,0 +1,21 @@
+name: Chapter / content proposal
+description: Propose a written expansion, correction, or new chapter for a poster's ideas.
+title: "[chapter] <short title>"
+labels: ["chapter", "needs:human"]
+body:
+  - type: input
+    id: chapter
+    attributes: {label: Which chapter/poster, description: Chapter title or number this concerns.}
+    validations: {required: true}
+  - type: textarea
+    id: proposal
+    attributes: {label: Proposal, description: What to add, expand, or correct, and why.}
+    validations: {required: true}
+  - type: dropdown
+    id: capability
+    attributes:
+      label: Capability needed
+      options: [needs:human, needs:ontology, needs:legal, needs:visual, needs:testing]
+    validations: {required: true}
+  - type: markdown
+    attributes: {value: "  Governed by the Zistgah CONTRACT and CONTEXT (github.com/zistgah/governance). The Geometry of Living is a research proposal, not established consensus. Contributions are CC-BY-SA-4.0 and subject to the project CLA."}

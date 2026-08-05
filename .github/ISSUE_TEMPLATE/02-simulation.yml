@@ -1,0 +1,21 @@
+name: Simulation / model
+description: Propose or contribute a simulation, notebook, or computational model of a chapter's framework.
+title: "[sim] <short title>"
+labels: ["simulation", "needs:code"]
+body:
+  - type: input
+    id: chapter
+    attributes: {label: Which chapter/poster}
+    validations: {required: true}
+  - type: textarea
+    id: model
+    attributes: {label: What to simulate, description: The mechanism/claim and how you would model it.}
+    validations: {required: true}
+  - type: dropdown
+    id: capability
+    attributes:
+      label: Capability needed
+      options: [needs:code, needs:testing, needs:visual, needs:human]
+    validations: {required: true}
+  - type: markdown
+    attributes: {value: "  Governed by the Zistgah CONTRACT and CONTEXT (github.com/zistgah/governance). The Geometry of Living is a research proposal, not established consensus. Contributions are CC-BY-SA-4.0 and subject to the project CLA."}

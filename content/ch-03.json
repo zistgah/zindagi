@@ -1,0 +1,30 @@
+{
+  "id": "ch-03",
+  "title": "Law, Ethics, Language & Civilization",
+  "subtitle": "A Unified Geometric, Thermodynamic & Institutional Framework",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Law, Ethics, Language & Civilization” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-03-01",
+      "dimension": "2d",
+      "src": "assets/figures/law-ethics-language-civilization.png",
+      "alt": "Poster: Law, Ethics, Language & Civilization",
+      "caption": "Figure 3.1 — Law, Ethics, Language & Civilization.",
+      "explanation": "The social space is treated as a multi-agent coupled manifold where unconstrained free-energy minimization in one agent causes chaotic divergence in another. Four macro-structural boundary conditions regulate it: law as an explicit topological constraint matrix, peace as low-entropy homeostasis, ethics as an internalized coordinate metric, and privacy as maintenance of the Markov-blanket boundary. Language is the shared syntactic coordinate system that binds isolated minds into a collective hyper-manifold. Institutional taxonomies — ISCED (education/input), ISCO-ILO (labour/agency), ISIC (industry/transformation) — form the orthogonal axes of the global socio-economic manifold.",
+      "tts": "Law, ethics, language, and civilization as the boundary conditions and coordinate systems of a coupled social manifold minimizing collective free energy.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Law, Ethics, Language & Civilization” from the “Geometry of Living” collection by Abhishek Choudhary (AyeAI) — a systems-theoretic synthesis treating living systems as navigation through coupled manifolds under grammar, constraints, and thermodynamics. Key topics on this poster: law as constraint matrix, peace as low-entropy homeostasis, ethics as metric, privacy as Markov blanket, ISIC ISCO ISCED, Sapir-Whorf manifold. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Living is presented as an integrative research proposal — a synthesis across disciplines, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}
